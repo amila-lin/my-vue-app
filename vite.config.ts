@@ -1,8 +1,14 @@
+import path from 'path'
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/my-vue-app/', // <-- 這要是你 GitHub Repo 的名稱
-  plugins: [vue()]
+  base: '/my-vue-app/', // ✅ GitHub Pages 的 public 路徑，需與 repo 名稱相同
+  plugins: [vue()],
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, './src'),
+    },
+  },
 })
