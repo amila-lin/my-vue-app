@@ -1,1 +1,0 @@
-import{_ as e}from"./index-BP0MC_zN.js";import{c as o,o as r}from"./vue-gV0EMc69.js";import"./elementPlus-CMxMAzrx.js";const c={};function t(n,s){return r(),o("div",null,"HobbiesPage")}const f=e(c,[["render",t]]);export{f as default};
