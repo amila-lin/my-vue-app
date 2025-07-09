@@ -1,1 +1,0 @@
-import{_ as e}from"./index-CVxaxUXm.js";import{c as o,o as r}from"./vue-C6f3PwGZ.js";import"./elementPlus-DfOOhCV-.js";const c={};function t(n,s){return r(),o("div",null,"HobbiesPage")}const f=e(c,[["render",t]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index-ux22gBrD.js";import{c as t,o}from"./vue-5klyxRfl.js";import"./elementPlus-DS8GmrEa.js";const r={};function c(a,n){return o(),t("div",null,"HealthPage")}const f=e(r,[["render",c]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./index-ux22gBrD.js";import{c,o as n}from"./vue-5klyxRfl.js";import"./elementPlus-DS8GmrEa.js";const o={};function r(t,a){return n(),c("div",null,"FinancePage")}const f=e(o,[["render",r]]);export{f as default};
