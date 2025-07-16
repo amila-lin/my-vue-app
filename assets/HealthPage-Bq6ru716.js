@@ -1,0 +1,1 @@
+import{_ as e}from"./index-D3K_behx.js";import{c as t,o}from"./vue-CI_e83Zz.js";import"./elementPlus-DkBTO3eb.js";const r={};function c(a,n){return o(),t("div",null,"HealthPage")}const f=e(r,[["render",c]]);export{f as default};
