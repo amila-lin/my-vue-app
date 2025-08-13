@@ -1,0 +1,1 @@
+function n(t){return`math_quiz_history_${t}`}function r(t,o){const e=n(t);localStorage.setItem(e,JSON.stringify(o))}function s(t){const o=n(t),e=localStorage.getItem(o);return e?JSON.parse(e):null}function a(t){return`account_records_${t}`}export{a as g,s as l,r as s};
