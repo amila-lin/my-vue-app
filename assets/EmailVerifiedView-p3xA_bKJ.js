@@ -1,0 +1,1 @@
+import{_ as o}from"./index-ael2ZC7G.js";import{c as r,o as t,a}from"./vue-BqyYyVhM.js";import"./elementPlus-tPvvSRko.js";const s={},c={class:"verify-view"};function i(n,e){return t(),r("div",c,e[0]||(e[0]=[a("p",null,"請稍候...",-1)]))}const l=o(s,[["render",i],["__scopeId","data-v-095a9a19"]]);export{l as default};
